@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7ae1c86-86ac-44f3-a154-6cdd61cee0fc" name="Default" comment="" />
+    <list default="true" id="e7ae1c86-86ac-44f3-a154-6cdd61cee0fc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/description.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/project-template.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,25 +40,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingletonPattern.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SingletonPattern.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/SingletonPattern.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="15">
-                <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1680">
-                <caret line="112" column="34" lean-forward="false" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="34" />
+                <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -80,8 +74,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/SingletonPattern.md" />
         <option value="$PROJECT_DIR$/src/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/SingletonPattern.md" />
       </list>
     </option>
   </component>
@@ -620,12 +614,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561775936806</updated>
-      <workItem from="1561775984542" duration="562000" />
+      <workItem from="1561775984542" duration="847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="562000" />
+    <option name="totallyTimeSpent" value="847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -710,22 +704,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/SingletonPattern.md">
+    <entry file="file://$PROJECT_DIR$/src/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/readme.md">
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/SingletonPattern.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1680">
-            <caret line="112" column="34" lean-forward="false" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="34" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
             <folding />
           </first_editor>
           <second_editor />
