@@ -1,5 +1,5 @@
 #### 先上图
-![](../src/GOF设计模式.jpg)
+![](src/GOF设计模式.jpg)
 
 #### 设计模式的六大原则
 **1、开闭原则（Open Close Principle）**
