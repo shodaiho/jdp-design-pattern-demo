@@ -6,4 +6,6 @@ package com.jiangdp.pattern.singleton;
  * Created by morningrain on 2019/6/29.
  */
 public class SingletonPattern {
+
+    
 }
