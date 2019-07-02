@@ -2,56 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7ae1c86-86ac-44f3-a154-6cdd61cee0fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/easyfactory/DellMouse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/easyfactory/HpMouse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/easyfactory/MainDemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/easyfactory/Mouse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/easyfactory/MouseFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/factory/DellMouse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/factory/DellMouseFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/factory/HpMouse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/factory/HpMouseFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/factory/MainDemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/factory/Mouse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/factory/MouseFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/DoubleCheckSingletonPattern.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/EnumSingletonPattern.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/LazySingletonPattern.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/StaticSingletonPattern$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/StaticSingletonPattern$SingletonHolder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/StaticSingletonPattern.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/abstractfactory/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/easyfactory/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/factory/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/ComputerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/DellComputerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/DellKeyBoard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/DellMouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/HpComputerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/HpKeyBoard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/HpMouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/KeyBoard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/MainDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/Mouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/easyfactory/DellMouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/easyfactory/HpMouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/easyfactory/MainDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/easyfactory/Mouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/easyfactory/MouseFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/easyfactory/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/factory/DellMouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/factory/DellMouseFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/factory/HpMouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/factory/HpMouseFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/factory/MainDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/factory/Mouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/factory/MouseFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/factory/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/SingletonPattern.md" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/SingletonPattern.md" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/SingletonPattern.class" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/SingletonPattern.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/SingletonPatternTest.class" afterPath="$PROJECT_DIR$/out/production/jdp-design-pattern-demo/com/jiangdp/pattern/singleton/SingletonPatternTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/Computer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/ComputerBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/ComputerDirector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/DellComputerBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/HpComputerBulider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/KeyBoard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/MainDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/Mouse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/Screen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/read.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,126 +25,129 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ComputerFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/ComputerFactory.java">
+      <file leaf-file-name="read.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/read.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComputerDirector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/ComputerDirector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="300">
+              <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+              <folding>
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mouse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/Mouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="KeyBoard.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/KeyBoard.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/KeyBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="105">
+              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HpComputerFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/HpComputerFactory.java">
+      <file leaf-file-name="Screen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/Screen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="105">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HpComputerBulider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/HpComputerBulider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HpMouse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/HpMouse.java">
+      <file leaf-file-name="DellComputerBuilder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/DellComputerBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DellMouse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/DellMouse.java">
+      <file leaf-file-name="ComputerBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/ComputerBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-              <folding>
-                <element signature="e#247#248#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HpKeyBoard.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/HpKeyBoard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-              <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DellKeyBoard.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/DellKeyBoard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-              <folding>
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DellComputerFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/DellComputerFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MainDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/MainDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/MainDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="Computer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/Computer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -215,10 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/Main.java" />
-        <option value="$PROJECT_DIR$/src/readme.md" />
-        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/singletonPartten/SingletonPattern.java" />
-        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/singletonPattern/SingletonPattern.java" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/SingletonPattern.java" />
         <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/LazySingletonPattern.java" />
@@ -263,6 +222,13 @@
         <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/DellComputerFactory.java" />
         <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/MainDemo.java" />
         <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/read.md" />
+        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/ComputerBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/DellComputerBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/HpComputerBulider.java" />
+        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/ComputerDirector.java" />
+        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/Computer.java" />
+        <option value="$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/MainDemo.java" />
       </list>
     </option>
   </component>
@@ -360,51 +326,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="factory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdp-design-pattern-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdp-design-pattern-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="easyfactory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdp-design-pattern-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdp-design-pattern-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="abstractfactory" />
+              <option name="myItemId" value="bulider" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -439,27 +361,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainDemo (2)">
-    <configuration default="false" name="SingletonPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.jiangdp.pattern.singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.jiangdp.pattern.singleton.SingletonPatternTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="jdp-design-pattern-demo" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MainDemo (3)">
     <configuration default="false" name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -528,6 +430,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.jiangdp.pattern.abstractfactory.MainDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jdp-design-pattern-demo" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainDemo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.jiangdp.pattern.bulider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.jiangdp.pattern.bulider.MainDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -969,19 +891,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SingletonPatternTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FactoryPatternDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MainDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MainDemo (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MainDemo (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FactoryPatternDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MainDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MainDemo (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MainDemo (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MainDemo (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MainDemo (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MainDemo (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MainDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FactoryPatternDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SingletonPatternTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MainDemo (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainDemo (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MainDemo (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MainDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FactoryPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -1002,12 +924,12 @@
       <updated>1561775936806</updated>
       <workItem from="1561775984542" duration="1015000" />
       <workItem from="1561777518811" duration="72000" />
-      <workItem from="1561777751745" duration="12323000" />
+      <workItem from="1561777751745" duration="15095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13410000" />
+    <option name="totallyTimeSpent" value="16182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -1066,78 +988,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/SingletonPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="e#373#374#0" expanded="false" />
-            <element signature="e#445#446#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/SingletonPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="e#373#374#0" expanded="false" />
-            <element signature="e#445#446#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jdp-design-pattern-demo.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/TestSingletonPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/singleton/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1274,8 +1124,8 @@
         <state relative-caret-position="150">
           <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1301,8 +1151,8 @@
         <state relative-caret-position="150">
           <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="false" />
+            <element signature="e#245#246#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1312,8 +1162,8 @@
         <state relative-caret-position="150">
           <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="false" />
+            <element signature="e#239#240#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1323,8 +1173,8 @@
         <state relative-caret-position="165">
           <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="false" />
+            <element signature="e#251#252#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1350,8 +1200,8 @@
         <state relative-caret-position="150">
           <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="false" />
+            <element signature="e#237#238#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1361,8 +1211,8 @@
         <state relative-caret-position="150">
           <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1414,14 +1264,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/KeyBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1482,10 +1324,10 @@
         <state relative-caret-position="150">
           <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="false" />
+            <element signature="e#257#258#0" expanded="false" />
+            <element signature="e#311#312#0" expanded="false" />
+            <element signature="e#350#351#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1514,11 +1356,126 @@
     <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/abstractfactory/KeyBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/KeyBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/HpComputerBulider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/ComputerBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/read.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/MainDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/ComputerDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangdp/pattern/bulider/DellComputerBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
